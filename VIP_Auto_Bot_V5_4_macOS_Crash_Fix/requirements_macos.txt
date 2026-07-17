@@ -1,0 +1,8 @@
+customtkinter
+pyautogui
+pynput
+pillow
+opencv-python
+pyinstaller
+pyobjc-framework-Quartz
+pyobjc-framework-Cocoa
